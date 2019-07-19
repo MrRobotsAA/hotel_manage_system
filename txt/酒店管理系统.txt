@@ -1,0 +1,28 @@
+1.实训要求
+
+
+管理员与用户两种角色
+管理员：用户管理（增删改查）
+公告管理（增删改查）
+
+用户
+查看（客户信息，房间信息，住宿管理）
+报修管理（查看，回复，检查）
+
+
+http://localhost:8081/hotel/login_index.do   前台首页
+http://localhost:8080/hotelManage/manage_index.do
+http://localhost:8080/hotelManage/manage_index.do 后台首页
+
+# 酒店管理系统API
+
+Demo: www.mafangui.cn:8888
+
+前端页面项目: https://github.com/FreeeBird/hotel_app
+
+后台管理项目:https://github.com/FreeeBird/hotel-manager
+
+
+
+帮助理解
+https://blog.csdn.net/kls_larson/article/details/89479790

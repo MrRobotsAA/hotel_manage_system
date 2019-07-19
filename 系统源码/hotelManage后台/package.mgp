@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PackageAnalysis>
+    <Package name="com.hotel.model" x="289" y="12"/>
+    <Package name="com.hotel.filter" x="177" y="526">
+        <DependencyLink destination="com.hotel.utils"/>
+    </Package>
+    <Package name="com.hotel.dto" x="834" y="110">
+        <DependencyLink destination="com.hotel.model"/>
+    </Package>
+    <Package name="com.hotel.dao" x="26" y="217">
+        <DependencyLink destination="com.hotel.dto"/>
+        <DependencyLink destination="com.hotel.utils"/>
+        <DependencyLink destination="com.hotel.model"/>
+        <DependencyLink destination="com.hotel.base.dao"/>
+    </Package>
+    <Package name="com.hotel.base.dao" x="732" y="22">
+        <DependencyLink destination="com.hotel.utils"/>
+        <DependencyLink destination="com.hotel.model"/>
+    </Package>
+    <Package name="com.hotel.action" x="1179" y="264">
+        <DependencyLink destination="com.hotel.dto"/>
+        <DependencyLink destination="com.hotel.utils"/>
+        <DependencyLink destination="com.hotel.model"/>
+        <DependencyLink destination="com.hotel.service"/>
+    </Package>
+    <Package name="com.hotel.service" x="1051" y="460">
+        <DependencyLink destination="com.hotel.dto"/>
+        <DependencyLink destination="com.hotel.utils"/>
+        <DependencyLink destination="com.hotel.model"/>
+    </Package>
+    <Package name="com.hotel.service.impl" x="429" y="514">
+        <DependencyLink destination="com.hotel.dto"/>
+        <DependencyLink destination="com.hotel.utils"/>
+        <DependencyLink destination="com.hotel.dao"/>
+        <DependencyLink destination="com.hotel.model"/>
+        <DependencyLink destination="com.hotel.service"/>
+    </Package>
+    <Package name="com.hotel.utils" x="57" y="391"/>
+</PackageAnalysis>

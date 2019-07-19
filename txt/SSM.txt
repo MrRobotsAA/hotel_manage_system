@@ -1,0 +1,54 @@
+POJO介绍
+https://blog.csdn.net/u011870547/article/details/81077153
+
+https://blog.csdn.net/u012393192/article/details/80808237
+
+java类中serialVersionUID的作用
+https://blog.csdn.net/u014750606/article/details/80040130
+
+
+
+
+
+
+
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'HistoryRecordService' defined in ServletContext resource [/WEB-INF/JavaWebProject-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'HistoryRecordDao' of bean class [com.ssh.service.HistoryRecordServiceImpl]: Bean property 'HistoryRecordDao' is not writable or has an invalid setter method.
+ssh action show dao domain service 关系
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+三等奖
+软件1605 陈现森 16110506014 17853318119 计算机科学与技术学院 
+计科1602 孙佳丽 16120581058 15695401782 计算机科学与技术学院 
+国贸1603 谢飞 16111401083 17853315943 经济学院
+
+三等奖
+计科1605 徐红博 16110501005 17853312640 计算机科学与技术学院 
+计科1605 李赫 16110501022 17853312749  计算机科学与技术学院 
+计科1705 张雪玉 17120501038 15615637110 计算机科学与技术学院 
+
+ 

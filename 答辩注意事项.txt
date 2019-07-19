@@ -1,0 +1,22 @@
+1.登录注册
+2.拦截器
+3.ssm框架
+4.ssh框架
+5.数据库设计 触发器
+6.索引 
+7.外键
+http://localhost:8080/hotelManage/manage_index.do 后台首页
+1.ajax技术
+异步刷新。
+2.拦截器
+3.ssh框架
+4.模糊查询  like % %
+5.触发器
+6.索引
+8.响应式布局  -- bootstrap框架
+9.数据库分页技术
+真分页  ---   自己写limit  用框架
+query.setFirstResult(left);
+query.setMaxResults(pageSize);
+假分页 ---  
+12.架构 MVC 软件工程设计思想 高内聚低耦合
